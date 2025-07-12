@@ -1,0 +1,9 @@
+table, th, td {
+  border:1px solid black;
+  width: 40%;
+  padding: 3px;
+}
+textarea {
+    width: 90%;
+    height: 70px;
+}
