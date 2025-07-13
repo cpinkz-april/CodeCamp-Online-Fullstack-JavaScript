@@ -1,0 +1,8 @@
+td, th {
+    border: 1px dashed red;
+    width: 30%;
+    padding: 3px;
+}
+table {
+    color: red;
+}
