@@ -1,0 +1,12 @@
+.flex-container, .flex-container_2, .flex-container_3 {
+    display: flex;
+}
+#colored_currency {
+    color: orange;
+}
+.submit-btn {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 15px;
+}
